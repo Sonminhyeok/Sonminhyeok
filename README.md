@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 기술 스택
-- **언어**: Java, Python, JavaScript
+- **언어**: Python, C, C++, Java, JavaScript
 - **프레임워크**: Spring, Django, React
 - **데이터베이스**: MySQL, MongoDB
 
