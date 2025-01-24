@@ -12,9 +12,9 @@
 
 ## 🚀 개발 프로젝트
 - **[머신러닝 기반 식단 분석 및 추천](https://github.com/Sonminhyeok/graduation/tree/master)**  
-  머신러닝 기반의 식단 분석으로 다음 메뉴를 추천
+  머신러닝 기반의 식단 분석으로 다음 메뉴 추천 시스템
 - **[LLM 기반 코딩 교육 웹사이트](https://github.com/Sonminhyeok/Web_project)**  
-  머신러닝 기반의 식단 분석으로 다음 메뉴를 추천
+  LLM을 활용한 리팩토링 및 디버깅 교육 시스템
 ---
 
 ## 📫 연락하기
