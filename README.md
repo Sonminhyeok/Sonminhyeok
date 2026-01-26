@@ -17,6 +17,8 @@
   langchain 기반 RAG 챗봇 파이프라인 구축, redis 기반 이벤트 처리 구현
 - **[온라인 데이터 거래 플랫폼 utong](https://github.com/Ureka-final-project-team-3)**  
   MCP 기반 자동화 트레이드 봇 개발, Spring security jwt를 사용한 인증/인가 구현, ERD 및 아키텍쳐 설계
+- **[광고없는 음식점 리뷰 사이트](https://github.com/foodreview-demo)**  
+  next.js 기반 프론트 + spring boot 기반 백엔드, capacitor 기반 어플리케이션
 ---
 
 ## 📫 연락하기
